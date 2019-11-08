@@ -23,7 +23,7 @@ USAGE:
 
 3. Go to the folder just downloaded & give permission file bash to Execute:
 
-  - cd fedora-automatic-tools
+  - cd CenOS-automatic-tools
   - chmod +x automatic-script.sh
 
 4. Run and enjoy the automation:
